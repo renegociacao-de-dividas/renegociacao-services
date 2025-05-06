@@ -1,15 +1,3 @@
-Perfeito! Abaixo está um esqueleto inicial de documento `README.md` para o seu repositório no GitHub. Ele inclui:
-
-* Visão geral do desafio
-* Justificativas técnicas (Java 17, Kafka, RDS, etc.)
-* Fluxo da solução
-* Explicação dos microsserviços
-* Arquitetura geral
-
----
-
-### ✅ **Arquivo: `README.md`**
-
 # 💼 Plataforma de Renegociação de Dívidas (Microsserviços com Spring Boot, Kafka e AWS)
 
 ## 🎯 Desafio
